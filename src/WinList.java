@@ -1,7 +1,7 @@
 
 public class WinList extends List {
 
-    WinList(String name, int maxLength) {
+    public WinList(String name, int maxLength) {
         super(name, maxLength);
     }
 

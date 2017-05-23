@@ -1,7 +1,7 @@
 
 public class WinButton extends Button {
 
-    WinButton(int h, int w, String t) {
+    public WinButton(int h, int w, String t) {
         super(h, w, t);
     }
 

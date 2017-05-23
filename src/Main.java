@@ -1,3 +1,4 @@
+
 public class Main {
 
     public static void main(String[] args) {
@@ -19,6 +20,8 @@ public class Main {
         System.out.println(window.write());
 
         //----------------------------------------------------
+
+        System.out.print("\n\n\n");
 
         IWindow window2 = new LinuxWindow(100, 100);
 

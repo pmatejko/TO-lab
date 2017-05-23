@@ -1,7 +1,7 @@
 
 public class LinuxList extends List {
 
-    LinuxList(String name, int maxLength) {
+    public LinuxList(String name, int maxLength) {
         super(name, maxLength);
     }
 

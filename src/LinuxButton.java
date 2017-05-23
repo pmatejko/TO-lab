@@ -1,7 +1,7 @@
 
 public class LinuxButton extends Button {
 
-    LinuxButton(int h, int w, String t) {
+    public LinuxButton(int h, int w, String t) {
         super(h, w, t);
     }
 

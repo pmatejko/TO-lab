@@ -7,7 +7,7 @@ public abstract class List implements IList {
     private ArrayList<String> tabText;
     private boolean unrolled;
 
-    List(String name, int maxLength) {
+    public List(String name, int maxLength) {
         this.name = name;
         this.maxLength = maxLength;
         tabText = new ArrayList<>();
